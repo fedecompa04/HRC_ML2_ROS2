@@ -31,5 +31,5 @@ This repository contains core Unity C# scripts designed to interface **Magic Lea
    * Unity OpenXR Plugin / Magic Leap Provider
 3. **Setup Instructions**:
    * Attach `AprilTagTFSubscriber.cs` to your working surface GameObject.
-   * Attach `MagicLeapTriggerPointer.cs` to your controller/manager GameObject and assign the target indicator ball transform in the inspector.
+   * Attach `MagicLeapTriggerPointer.cs` to your working surface GameObject and assign the target indicator ball transform in the inspector.
    * Ensure your ROS-TCP-Connector endpoint IP is properly configured within the Unity editor.

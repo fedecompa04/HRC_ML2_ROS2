@@ -1,3 +1,5 @@
+# ROS2 Side Configuration Guide
+
 This README explains how to configure the ROS2 side to make the bridge between ROS2 and Magic Leap 2 work.
 
 Add the `config_ml2_stream` package and the package available for download at the following link to your workspace.

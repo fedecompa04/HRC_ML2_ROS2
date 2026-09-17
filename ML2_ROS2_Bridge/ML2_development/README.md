@@ -1,3 +1,5 @@
+# Magic Leap 2 Application Configuration Guide
+
 There are two options for configuring the application for Magic Leap 2:
 
 1. Use the pre-built application
